@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LowziNN
 - 👀 I’m interested software
-- 🌱 Currently I'm learning how to make a website and html css
+- 🌱 Currently I'm learning how to make a website and HTML CSS
 - 💞️ I’m looking to collaborate on
 - 📫 You can reach me on Instagram and Discord.
 - 📥 Instagram: @taha.chaos
