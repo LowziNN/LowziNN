@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LowziNN
 - 👀 I’m interested software
 - 🌱 Currently I'm learning how to make a website and HTML CSS
+- 🌱 I also know these programming languages c++ css c c# html javascript lua
 - 💞️ I’m looking to collaborate on
 - 📫 You can reach me on Instagram and Discord.
 - 📥 Instagram: @taha.chaos
